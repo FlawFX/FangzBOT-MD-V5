@@ -29,14 +29,14 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *🎨 Umur* : 5
 *🧮 Kelas* : Paud
 *🧩 Hobby* : Turu
-*💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
-*🗺️ Tinggal* : Indonesia, jawa, bogor
-*❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
-*💔 Benci* : anak alay, autis, anak epep, sok asik
+*💬 Sifat* : Baik kok
+*🗺️ Tinggal* : Mars
+*❤️ Suka* : Kamu><
+*💔 Benci* : anak alay, autis, sok asik
 
 *- - sᴋɪʟʟs: - -* 
-> JavaScript [70.7%]
-> Python [11.4%]
+> Turu [70.7%]
+> Makan [11.4%]
 > CSS [4.1%]
 > Html [0.9%]
 > Recode [76.8%]

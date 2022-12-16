@@ -27,8 +27,8 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *🕋 Agama* : Islam
 *⏰ Tanggal lahir* : Private
 *🎨 Umur* : 5
-*🧮 Kelas* : 9
-*🧩 Hobby* : Nonton henta*, main game, Recode script
+*🧮 Kelas* : Paud
+*🧩 Hobby* : Turu
 *💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
 *🗺️ Tinggal* : Indonesia, jawa, bogor
 *❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing

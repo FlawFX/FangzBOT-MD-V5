@@ -16,7 +16,7 @@ _Kebijakan privasi atau Private without being in public_
 
 • Jika ada bug/eror di website kami saya mohon untuk Report nya, tanpa biaya dan aman
 
-_Cara penggunaan Fangz BOT Agar terhindar dari Suspand_
+_Cara penggunaan ZennX-Botz Agar terhindar dari Suspand_
 
 • *Peraturan WhatsApp Bot:*
 1. Users dilarang menelpon maupun memvideo call nomor bot.
@@ -43,7 +43,7 @@ _Cara penggunaan Fangz BOT Agar terhindar dari Suspand_
 5. WhatsApp Bot bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Link', url: 'https://fangzbot.websites.co.in/'}},
+    {index: 1, urlButton: {displayText: 'Link', url: 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'}},
 ]
 let tm = {
 text: text,

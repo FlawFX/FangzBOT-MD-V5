@@ -4,6 +4,6 @@ await m.reply(global.wait)
 }
 handler.help = ['zenn']
 handler.tags = ['anime']
-handler.command = /^(fangz)$/i
+handler.command = /^(zenn)$/i
 
 export default handler 

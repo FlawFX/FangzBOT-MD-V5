@@ -36,11 +36,11 @@ let teksbio = `${htki} *BIODATA* ${htka}
 
 *- - sᴋɪʟʟs: - -* 
 > Turu [70.7%]
-> Makan [11.4%]
-> CSS [4.1%]
-> Html [0.9%]
+> Remix [11.4%]
+> Main Game [4.1%]
+> Berak [0.9%]
 > Recode [76.8%]
-> Create Webs [88.9%]
+> Makan [88.9%]
 
 ───────[ SOSIAL MEDIA ]───────
 
@@ -48,8 +48,8 @@ let teksbio = `${htki} *BIODATA* ${htka}
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
 🌐 *Discord:* Soon
-🌏 *Website:* https://fangzbot.websites.co.in/
-🎶 *Tiktok:* tiktok.com/@fangzjb
+🌏 *Website:* https://linktr.ee/flawzx
+🎶 *Tiktok:* tiktok.com/@yogzkyy
 
 `
   let teks = ' '
